@@ -34,6 +34,10 @@
            android:summaryOff="@string/grid_recents_pinning_summaryOff"
            android:defaultValue="true" />
 
+      <Preference
+          android:key="recents_icon_pack"
+          android:title="@string/recents_icon_pack_title"
+          android:summary="@string/recents_icon_pack_summary" />
 
       <org.aospextended.extensions.preference.SystemSettingSwitchPreference
            android:key="systemui_recents_mem_display"
