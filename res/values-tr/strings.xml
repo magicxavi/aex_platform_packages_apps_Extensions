@@ -571,11 +571,11 @@
   <!-- Buttons backlight timeout -->
   <string name="backlight_timeout_title">Aydınlatma zaman aşımı</string>
   <string name="backlight_timeout_on">Her zaman etkin</string>
-  <string name="backlight_timeout_default">5 saniye (varsayılan)</string>
+  <string name="backlight_timeout_default">1.5 saniye (varsayılan)</string>
+  <string name="backlight_timeout_2s">2 sn.</string>
+  <string name="backlight_timeout_3s">3 sn.</string>
+  <string name="backlight_timeout_5s">5 sn.</string>
   <string name="backlight_timeout_10s">10 sn.</string>
-  <string name="backlight_timeout_15s">15 sn.</string>
-  <string name="backlight_timeout_20s">20 sn.</string>
-  <string name="backlight_timeout_30s">30 sn.</string>
   <!-- Enable keys backlight-->
   <string name="button_brightness_title">Arka ışık</string>
   <!-- Custom carrier label and position -->

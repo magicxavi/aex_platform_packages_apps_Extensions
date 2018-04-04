@@ -571,11 +571,11 @@
   <!-- Buttons backlight timeout -->
   <string name="backlight_timeout_title">Časový limit podsvietenia tlačidiel</string>
   <string name="backlight_timeout_on">Vždy zapnuté</string>
-  <string name="backlight_timeout_default">5 sekúnd (predvolené)</string>
+  <string name="backlight_timeout_default">1.5 sekúnd (predvolené)</string>
+  <string name="backlight_timeout_2s">2 sekúnd</string>
+  <string name="backlight_timeout_3s">3 sekúnd</string>
+  <string name="backlight_timeout_5s">5 sekúnd</string>
   <string name="backlight_timeout_10s">10 sekúnd</string>
-  <string name="backlight_timeout_15s">15 sekúnd</string>
-  <string name="backlight_timeout_20s">20 sekúnd</string>
-  <string name="backlight_timeout_30s">30 sekúnd</string>
   <!-- Enable keys backlight-->
   <string name="button_brightness_title">Podsvietenie</string>
   <!-- Custom carrier label and position -->

@@ -571,11 +571,11 @@
   <!-- Buttons backlight timeout -->
   <string name="backlight_timeout_title">Beleuchtung ausschalten nach</string>
   <string name="backlight_timeout_on">Nie ausschalten</string>
-  <string name="backlight_timeout_default">5 Sekunden (Standard)</string>
+  <string name="backlight_timeout_default">1.5 Sekunden (Standard)</string>
+  <string name="backlight_timeout_2s">2 Sekunden</string>
+  <string name="backlight_timeout_3s">3 Sekunden</string>
+  <string name="backlight_timeout_5s">5 Sekunden</string>
   <string name="backlight_timeout_10s">10 Sekunden</string>
-  <string name="backlight_timeout_15s">15 Sekunden</string>
-  <string name="backlight_timeout_20s">20 Sekunden</string>
-  <string name="backlight_timeout_30s">30 Sekunden</string>
   <!-- Enable keys backlight-->
   <string name="button_brightness_title">Tasten beleuchten</string>
   <!-- Custom carrier label and position -->

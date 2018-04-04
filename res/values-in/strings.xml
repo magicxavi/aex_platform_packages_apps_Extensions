@@ -571,11 +571,11 @@
   <!-- Buttons backlight timeout -->
   <string name="backlight_timeout_title">Waktu habis iluminasi</string>
   <string name="backlight_timeout_on">Selalu hidup</string>
-  <string name="backlight_timeout_default">5 det (bawaan)</string>
+  <string name="backlight_timeout_default">1.5 det (bawaan)</string>
+  <string name="backlight_timeout_2s">2 det</string>
+  <string name="backlight_timeout_3s">3 det</string>
+  <string name="backlight_timeout_5s">5 det</string>
   <string name="backlight_timeout_10s">10 det</string>
-  <string name="backlight_timeout_15s">15 det</string>
-  <string name="backlight_timeout_20s">20 det</string>
-  <string name="backlight_timeout_30s">30 det</string>
   <!-- Enable keys backlight-->
   <string name="button_brightness_title">Lampu tombol</string>
   <!-- Custom carrier label and position -->

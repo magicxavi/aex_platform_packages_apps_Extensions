@@ -387,11 +387,11 @@
   <string name="hardware_keys_disable_title">Inaktivera hårdvaruknappar</string>
   <!-- Buttons backlight timeout -->
   <string name="backlight_timeout_on">Alltid aktiv</string>
-  <string name="backlight_timeout_default">5 sek (standard)</string>
+  <string name="backlight_timeout_default">1.5 sek (standard)</string>
+  <string name="backlight_timeout_2s">2 sek</string>
+  <string name="backlight_timeout_3s">3 sek</string>
+  <string name="backlight_timeout_5s">5 sek</string>
   <string name="backlight_timeout_10s">10 sek</string>
-  <string name="backlight_timeout_15s">15 sek</string>
-  <string name="backlight_timeout_20s">20 sek</string>
-  <string name="backlight_timeout_30s">30 sek</string>
   <!-- Enable keys backlight-->
   <string name="button_brightness_title">Bakgrundsbelysning</string>
   <!-- Custom carrier label and position -->

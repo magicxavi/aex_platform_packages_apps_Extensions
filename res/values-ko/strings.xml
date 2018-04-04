@@ -577,11 +577,11 @@
   <!-- Buttons backlight timeout -->
   <string name="backlight_timeout_title">조명 시간 제한</string>
   <string name="backlight_timeout_on">항상 사용</string>
-  <string name="backlight_timeout_default">5초 (기본)</string>
+  <string name="backlight_timeout_default">1.5초 (기본)</string>
+  <string name="backlight_timeout_2s">2 초</string>
+  <string name="backlight_timeout_3s">3 초</string>
+  <string name="backlight_timeout_5s">5 초</string>
   <string name="backlight_timeout_10s">10 초</string>
-  <string name="backlight_timeout_15s">15 초</string>
-  <string name="backlight_timeout_20s">20 초</string>
-  <string name="backlight_timeout_30s">30 초</string>
   <!-- Enable keys backlight-->
   <string name="button_brightness_title">백라이트</string>
   <!-- Custom carrier label and position -->

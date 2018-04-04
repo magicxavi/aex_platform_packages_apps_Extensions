@@ -571,11 +571,11 @@
   <!-- Buttons backlight timeout -->
   <string name="backlight_timeout_title">Megvilágítás ideje</string>
   <string name="backlight_timeout_on">Mindig engedélyezve</string>
-  <string name="backlight_timeout_default">5 mp (alapértelmezett)</string>
+  <string name="backlight_timeout_default">1.5 mp (alapértelmezett)</string>
+  <string name="backlight_timeout_2s">2 mp</string>
+  <string name="backlight_timeout_3s">3 mp</string>
+  <string name="backlight_timeout_5s">5 mp</string>
   <string name="backlight_timeout_10s">10 mp</string>
-  <string name="backlight_timeout_15s">15 mp</string>
-  <string name="backlight_timeout_20s">20 mp</string>
-  <string name="backlight_timeout_30s">30 mp</string>
   <!-- Enable keys backlight-->
   <string name="button_brightness_title">Háttérvilágítás</string>
   <!-- Custom carrier label and position -->

@@ -570,11 +570,11 @@
   <!-- Buttons backlight timeout -->
   <string name="backlight_timeout_title">مُهلة الإضاءة</string>
   <string name="backlight_timeout_on">تمكين دائماً</string>
-  <string name="backlight_timeout_default">5 ثانية (افتراضي)</string>
+  <string name="backlight_timeout_default">1.5 ثانية (افتراضي)</string>
+  <string name="backlight_timeout_2s">2 ثانية</string>
+  <string name="backlight_timeout_3s">3 ثانية</string>
+  <string name="backlight_timeout_5s">5 ثانية</string>
   <string name="backlight_timeout_10s">10 ثانية</string>
-  <string name="backlight_timeout_15s">15 ثانية</string>
-  <string name="backlight_timeout_20s">٢٠ ثانية</string>
-  <string name="backlight_timeout_30s">٣٠ ثانية</string>
   <!-- Enable keys backlight-->
   <string name="button_brightness_title">الإضاءة الخلفية</string>
   <!-- Custom carrier label and position -->

@@ -571,11 +571,11 @@
   <!-- Buttons backlight timeout -->
   <string name="backlight_timeout_title">Χρονικό όριο φωτισμού</string>
   <string name="backlight_timeout_on">Πάντα ενεργή</string>
-  <string name="backlight_timeout_default">5 δευτ (προεπιλογή)</string>
+  <string name="backlight_timeout_default">1.5 δευτ (προεπιλογή)</string>
+  <string name="backlight_timeout_2s">2 δευτ</string>
+  <string name="backlight_timeout_3s">3 δευτ</string>
+  <string name="backlight_timeout_5s">5 δευτ</string>
   <string name="backlight_timeout_10s">10 δευτ</string>
-  <string name="backlight_timeout_15s">15 δευτ</string>
-  <string name="backlight_timeout_20s">20 δευτ</string>
-  <string name="backlight_timeout_30s">30 δευτ</string>
   <!-- Enable keys backlight-->
   <string name="button_brightness_title">Οπίσθιος φωτισμός</string>
   <!-- Custom carrier label and position -->

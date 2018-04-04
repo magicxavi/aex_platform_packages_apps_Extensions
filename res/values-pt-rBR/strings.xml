@@ -571,11 +571,11 @@
   <!-- Buttons backlight timeout -->
   <string name="backlight_timeout_title">Tempo de iluminação</string>
   <string name="backlight_timeout_on">Sempre ativar</string>
-  <string name="backlight_timeout_default">5 seg (padrão)</string>
+  <string name="backlight_timeout_default">1.5 seg (padrão)</string>
+  <string name="backlight_timeout_2s">2 seg</string>
+  <string name="backlight_timeout_3s">3 seg</string>
+  <string name="backlight_timeout_5s">5 seg</string>
   <string name="backlight_timeout_10s">10 seg</string>
-  <string name="backlight_timeout_15s">15 seg</string>
-  <string name="backlight_timeout_20s">20 seg</string>
-  <string name="backlight_timeout_30s">30 seg</string>
   <!-- Enable keys backlight-->
   <string name="button_brightness_title">Ativar a luz de fundo</string>
   <!-- Custom carrier label and position -->

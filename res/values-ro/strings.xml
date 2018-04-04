@@ -571,11 +571,11 @@
   <!-- Buttons backlight timeout -->
   <string name="backlight_timeout_title">Timp expirare iluminare</string>
   <string name="backlight_timeout_on">Activat mereu</string>
-  <string name="backlight_timeout_default">5 sec (implicit)</string>
+  <string name="backlight_timeout_default">1.5 sec (implicit)</string>
+  <string name="backlight_timeout_2s">2 sec</string>
+  <string name="backlight_timeout_3s">3 sec</string>
+  <string name="backlight_timeout_5s">5 sec</string>
   <string name="backlight_timeout_10s">10 sec</string>
-  <string name="backlight_timeout_15s">15 sec</string>
-  <string name="backlight_timeout_20s">20 de sec</string>
-  <string name="backlight_timeout_30s">30 de sec</string>
   <!-- Enable keys backlight-->
   <string name="button_brightness_title">Lumină de fundal</string>
   <!-- Custom carrier label and position -->
