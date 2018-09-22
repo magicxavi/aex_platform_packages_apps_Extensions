@@ -16,11 +16,20 @@
 
 package org.aospextended.extensions;
 
+import android.app.AlertDialog;
+import android.app.Dialog;
 import android.app.ActivityManagerNative;
 import android.content.Context;
 import android.content.ContentResolver;
+import android.content.DialogInterface;
+import android.content.DialogInterface.OnClickListener;
+import android.content.Intent;
+import android.content.pm.PackageManager;
+import android.content.pm.ResolveInfo;
 import android.content.pm.PackageManager.NameNotFoundException;
 import android.content.res.Resources;
+import android.database.ContentObserver;
+import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.os.UserHandle;
 import android.os.RemoteException;
@@ -40,7 +49,17 @@ import java.util.regex.Pattern;
 
 import java.util.Locale;
 import android.text.TextUtils;
+import android.view.LayoutInflater;
 import android.view.View;
+import android.view.ViewGroup;
+import android.widget.BaseAdapter;
+import android.widget.AdapterView;
+import android.widget.AdapterView.OnItemClickListener;
+import android.widget.ImageView;
+import android.widget.RadioButton;
+import android.widget.TextView;
+import android.widget.Toast;
+import android.widget.ListView;
 
 import com.android.settings.R;
 import com.android.settings.util.Helpers;
